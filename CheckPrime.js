@@ -20,6 +20,9 @@ console.log("This is  Prime factor ");
 
 console.log("It is not a Prime Factor");
 
+
+
+
 }
 
 
