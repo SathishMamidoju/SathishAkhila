@@ -4,7 +4,7 @@ let count=0;
 
 for(let i=1 ; i<=x ; i++){
 
-if(i%x==0){
+if(x%i==0){
 
 count++;
 
@@ -14,11 +14,11 @@ count++;
 
 if(count==2){
 
-console.log("Prime");
+console.log("This is  Prime factor ");
 
 }else{
 
-console.log("NotPrime");
+console.log("It is not a Prime Factor");
 
 }
 
