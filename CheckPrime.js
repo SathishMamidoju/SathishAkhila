@@ -14,11 +14,14 @@ count++;
 
 if(count==2){
 
-console.log("Prime");
+console.log("This is  Prime factor ");
 
 }else{
 
-console.log("Not Prime");
+console.log("It is not a Prime Factor");
+
+
+
 
 }
 
